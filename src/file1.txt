@@ -1,0 +1,3 @@
+Hello!
+Learning Git.
+This is "file1.txt".
